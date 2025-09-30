@@ -1,0 +1,3 @@
+﻿  Non-overlapping Intervals.cpp
+C:\Users\ddtag\source\repos\Non-overlapping Intervals\Non-overlapping Intervals\Non-overlapping Intervals.cpp(26,29): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Non-overlapping Intervals.vcxproj -> C:\Users\ddtag\source\repos\Non-overlapping Intervals\x64\Debug\Non-overlapping Intervals.exe
