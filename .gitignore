@@ -1,0 +1,8 @@
+.vs/
+Debug/
+Release/
+*.user
+*.suo
+*.pdb
+Thumbs.db
+.DS_Store
